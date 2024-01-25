@@ -14,4 +14,4 @@ project 2 SQL.sql: This file contains the created databse schema for the data.
 
 Project_2_ERD.png: This file contains the entity relationship diagram for the schema.
 
-Resources: This folder contains the raw exceld data and created csv outputs for the data.
+Resources: This folder contains the raw excel data and created csv outputs for the data.
